@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformIntranet", "InformIntranet\InformIntranet.csproj", "{800F634D-5CEC-40DF-A465-AA26892BC9D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActiveDirectoryHelper", "ActiveDirectoryHelper\ActiveDirectoryHelper.csproj", "{3181D90C-0B70-4A90-8340-083F953BEC82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InformTmLiveStats", "InformTmLiveStats\InformTmLiveStats.csproj", "{E0EA8988-70CB-4F2E-BD54-A661DDE7F2D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{800F634D-5CEC-40DF-A465-AA26892BC9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{800F634D-5CEC-40DF-A465-AA26892BC9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{800F634D-5CEC-40DF-A465-AA26892BC9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{800F634D-5CEC-40DF-A465-AA26892BC9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3181D90C-0B70-4A90-8340-083F953BEC82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3181D90C-0B70-4A90-8340-083F953BEC82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3181D90C-0B70-4A90-8340-083F953BEC82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3181D90C-0B70-4A90-8340-083F953BEC82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0EA8988-70CB-4F2E-BD54-A661DDE7F2D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0EA8988-70CB-4F2E-BD54-A661DDE7F2D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0EA8988-70CB-4F2E-BD54-A661DDE7F2D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0EA8988-70CB-4F2E-BD54-A661DDE7F2D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
